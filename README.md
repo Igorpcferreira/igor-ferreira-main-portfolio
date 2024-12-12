@@ -1,5 +1,5 @@
 # 🌐 igor-ferreira-main-portfolio
-## Link de acesso [👉 Portfólio](https://igor-ferreira-main-porfolio.vercel.app/)
+## Link de acesso [👉 Portfólio](https://igor-ferreira-main-portfolio.vercel.app)
 
 Bem-vindo ao meu portfólio! Este projeto é uma representação do meu trabalho mais recente e compartilha insights sobre minha jornada na tecnologia.
 
