@@ -7,9 +7,9 @@ export const ProfilePosition = () => {
 
   const getPositionText = () => {
     if (language === 'pt_BR') {
-      return 'Desenvolvedor FullStack | Engenheiro de Software';
+      return 'Desenvolvedor FullStack | Cientista da Computação';
     }
-    return 'FullStack Developer | Software Engineer';
+    return 'FullStack Developer | Computer Scientist';
   };
 
   return (

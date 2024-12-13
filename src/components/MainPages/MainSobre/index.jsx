@@ -12,8 +12,8 @@ export const MainSobre = () => {
     if (language === 'pt_BR') {
       return (
         <>
-          Bem-vindo ao meu portfólio, um espaço curado onde apresento meu trabalho mais
-          recente e compartilho insights sobre minha jornada na tecnologia.
+          Bem-vindo ao meu portfólio, um espaço cuidadosamente organizado para apresentar meu trabalho 
+          mais recente e compartilhar insights sobre minha jornada na tecnologia.
           <br />
           <br />
           Com mais de 3 anos de experiência, sou especializado em Desenvolvimento FullStack,

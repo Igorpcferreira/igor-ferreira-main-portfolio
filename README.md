@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio! Este projeto é uma representação do meu trabalho
 
 ## 🖥️ Visão Geral
 
-Este portfólio foi desenvolvido para mostrar minhas habilidades e projetos como **Desenvolvedor FullStack** e **Engenheiro de Software**. O site é multilíngue, suportando **inglês** e **português**, e permite que os visitantes alternem entre os idiomas clicando nas bandeiras dos respectivos países. 🎌
+Este portfólio foi desenvolvido para mostrar minhas habilidades e projetos como **Desenvolvedor FullStack** e **Cientista da Computação**. O site é multilíngue, suportando **inglês** e **português**, e permite que os visitantes alternem entre os idiomas clicando nas bandeiras dos respectivos países. 🎌
 
 ## ✨ Funcionalidades
 
